@@ -40,10 +40,10 @@ I'm passionate about building meaningful products with cutting-edge tech. My mai
 - [Project Name](project-link) – Short description.
 -->
 
-<!-- Optionally, add a fun fact or your motto!
-> “Code is poetry. Impact is everything.”
--->
 
-<!-- Badges (optional) 
+> “Code is poetry. Impact is everything.”
+
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xcyberloop&show_icons=true&hide_title=true)
--->
+
